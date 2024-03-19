@@ -1,7 +1,11 @@
 # Visually Dehallucinative Instruction Generation
 
-**Visually Dehallucinative Instruction Generation**  [[paper](https://arxiv.org/abs/2402.08348)] <br>
+**(CAP2QA) Visually Dehallucinative Instruction Generation**  [[paper](https://arxiv.org/abs/2402.08348)] <br>
 [Sungguk Cha](https://sunggukcha.github.io), Jusung Lee, Younghyun Lee and Cheoljong Yang
+
+See also, 
+**(IDK) Visually Dehallucinative Instruction Generation: Know What You Don't Know** [[paper](https://arxiv.org/abs/2402.09717)] [[github](https://github.com/ncsoft/idk)] <br>
+
 ## CAP2QA
 ### Image-aligned Sentence Level VQA Data
 <img src="images/fig1.png"> <br>
